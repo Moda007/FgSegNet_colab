@@ -1,4 +1,4 @@
-## This is a repo adds notebook for training FgSegNet in google colab
+## This is a repo adds notebook for training FgSegNet in google colab (in progress)
 ## Official FgSegNet repo link is: https://github.com/lim-anggun/FgSegNet
 ### Below readme is the same as the official one
 
